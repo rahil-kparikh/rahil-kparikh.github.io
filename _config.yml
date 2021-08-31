@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Rahil Parikh"
 title_separator          : "-"
 name                     : &name "Rahil"
 description              : &description "PhD Student at University of Maryland, College Park"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : rahil@terpmail.umd.edu
+  email            : "rahil@terpmail.umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
