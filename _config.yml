@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Rahil Parikh"
 title_separator          : "-"
 name                     : &name "Rahil"
-description              : &description "PhD Student at University of Maryland, College Park"
-url                      : rahil-kparikh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Graduate Researcher at University of Maryland, College Park"
+url                      : https://rahil-kparikh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rahil-kparikh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "ParikhRahil"
 facebook:
   username               :
   app_id                 :
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Rahil Parikh"
-  avatar           : "profile.png"
-  bio              : "PhD Student at University of Maryland, working on speech and language processing"
-  location         : "San Francisco, CA/Washington DC"
-  employer         :
+  avatar           : "Rahil_photo.png"
+  bio              : "Graduate Researcher at University of Maryland, working on speech and language processing"
+  location         : "San Francisco, California"
+  employer         : "Alexa AI, Amazon.com"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=IpcxRxMAAAAJ&hl=en"
   email            : "rahil@terpmail.umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/rahil-parikh/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "rahil-parikh/"
+  orcid            : "0000-0002-2710-3742"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
