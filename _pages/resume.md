@@ -4,7 +4,7 @@ title: "Resume"
 permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
  <!-- https://drive.google.com/file/d/1w7pvcWZ8nTxGlpveKFEtmTtbE_cWKCx0/view?usp=sharing -->
