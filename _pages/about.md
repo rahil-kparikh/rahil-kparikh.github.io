@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Rahil is currently working with Prof. Shihab Shamma (Neural Systems Lab) and Prof. Carol Espy-Wilson on a multitude of speech and language processing tasks such as speech separation, universal source separation and speech production. 
+Rahil is currently working with Prof. Shihab Shamma at the [Neural Systems Lab](http://nsl.isr.umd.edu/) and Prof. Carol Espy-Wilson at the [Speech Communication Lab](https://scl.umd.edu/)  on a multitude of speech and language processing tasks such as speech separation, universal source separation and speech production. 
 
-During his internships at Alexa AI (Amazon.com), Rahil worked on Trustworthy Machine Learning, specifically Privacy Preserving Natural Language Understanding, and Acoustic Event Detection and Acoustic Scene Classification for Alexa Guard.
+During his internships at Alexa AI (Amazon.com), Rahil worked on Privacy Preserving Machine Learning for Natural Language Understanding, and Acoustic Event Detection and Acoustic Scene Classification for Alexa Guard.
 
 Prior to joining the [University of Maryland](https://ece.umd.edu/) in 2017, Rahil completed his undergraduate at [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/goa/).
