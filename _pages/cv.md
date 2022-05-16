@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv
+  - /resume
 ---
 
  <!-- https://drive.google.com/file/d/1w7pvcWZ8nTxGlpveKFEtmTtbE_cWKCx0/view?usp=sharing -->
