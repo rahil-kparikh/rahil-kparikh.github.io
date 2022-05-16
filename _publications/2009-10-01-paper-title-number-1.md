@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Harmonicity Plays a Critical Role in DNN Based Versus in Biologically-Inspired Monaural Speech Segregation Systems"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/harmonicity_and_speech_segregation
+excerpt: 'In this work we demonstrate that deep neural network based end-to-end speech segregation models cue on to the harmonic structure of speech for grouping and segregating sources. We demonstrate that these networks completely fail to separate inharmonic sources, and that they are unable to learn how to segregate speech when trained on mixtures of inharmonic speech.'
+venue: 'ICASSP, 2022'
+paperurl: 'https://arxiv.org/pdf/2203.04420.pdf'
+citation: 'Parikh, Rahil, et al. "Harmonicity Plays a Critical Role in DNN Based Versus in Biologically-Inspired Monaural Speech Segregation Systems." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[Download paper here](https://arxiv.org/pdf/2203.04420.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

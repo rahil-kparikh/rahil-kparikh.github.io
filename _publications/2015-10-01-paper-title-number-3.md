@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: "Acoustic To Articulatory Speech Inversion Using Multi-Resolution Spectro-Temporal Representations Of Speech Signals"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/speech_inversion_cortical_features
+excerpt: 'In this work we develop a speech inversion system to predict vocal tract parameters using the cortical features of acoustic speech. We demonstrate that the cortical features are correlated to the vocal tract parameters highlighting that the audiotry theory of speech perception is linked to the motor theory of speech production.'
+venue: 'Accepted to GlobalSIP 2018'
+citation: 'Parikh, Rahil, et al. "Acoustic To Articulatory Speech Inversion Using Multi-Resolution Spectro-Temporal Representations Of Speech Signals." arXiv preprint arXiv:2203.05780 (2022).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://arxiv.org/pdf/2203.05780.pdf)

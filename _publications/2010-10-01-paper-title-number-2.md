@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Canary Extraction in Natural Language Understanding Models"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/model_inversion_nlu_models
+excerpt: 'In this work we demonstrate a white-box model inversion attack on Natural Language Understanding models. We show that an adversary can obtain sensitive information from the training data if given access to the model's parameters.
+venue: 'ACL Main Conference 2022'
+paperurl: 'https://arxiv.org/pdf/2203.13920.pdf'
+citation: 'Parikh, Rahil, Christophe Dupuy, and Rahul Gupta. "Canary Extraction in Natural Language Understanding Models." arXiv preprint arXiv:2203.13920 (2022).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://arxiv.org/pdf/2203.13920.pdf)
