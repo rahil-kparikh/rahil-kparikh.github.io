@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Rahil is currently working with Prof. Shihab Shamma at the [Neural Systems Lab](http://nsl.isr.umd.edu/) and Prof. Carol Espy-Wilson at the [Speech Communication Lab](https://scl.umd.edu/)  on a multitude of speech and language processing tasks such as speech separation, universal source separation and speech production. 
+Rahil is an Applied Scientist at Amazon, working in Natural Language Understanding (NLU) for Alexa AI. His current focus is in building privacy-preserving ML models and large-scale data de-identification pipelines. During his internships at Alexa AI, Rahil developed the first [*Model Inversion Attack for NLP Tasks*](https://www.amazon.science/publications/canary-extraction-in-natural-language-understanding-models). While working for Aelxa AI's Edge-ML team, he worked on representation and [multi-task learning for *Acoustic Event Detection* and *Acoustic Scene Classification*](https://www.amazon.science/publications/impact-of-acoustic-event-tagging-on-scene-classification-in-a-multi-task-learning-framework).
 
-During his internships at Alexa AI (Amazon.com), Rahil worked on Privacy Preserving Machine Learning for Natural Language Understanding, and Acoustic Event Detection and Acoustic Scene Classification for Alexa Guard.
+Prior to joining Amazon, Rahil worked with [Prof. Shihab Shamma](https://isr.umd.edu/clark/faculty/476/Shihab-Shamma) at the [Neural Systems Lab](http://nsl.isr.umd.edu/) and [Prof. Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson) at the [Speech Communication Lab](https://scl.umd.edu/), [University of Maryland](https://ece.umd.edu/). He worked on a multitude of speech and language processing tasks such as speech separation, universal source separation, speech production and speaker verification from 2018 and completed his graduate studies in 2022.
 
-Prior to joining the [University of Maryland](https://ece.umd.edu/) in 2017, Rahil completed his undergraduate at [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/goa/).
+Prior to joining the  in 2017, Rahil completed his undergraduate studies at [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/goa/) in 2017.
