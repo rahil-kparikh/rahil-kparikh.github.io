@@ -1,7 +1,7 @@
 ---
 title: "Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning"
 collection: publications
-permalink: /publication/model_inversion_nlu_models
+permalink: /publication/prompt_tuning_extraction
 excerpt: 'This work introduces a prompt-tuning method to control memorized content extraction in LLMs, demonstrating both attack and defense strategies. Using GPT-Neo models, they show their attack increases extraction rates by 9.3 percentage points while their defense reduces extraction by up to 97.7% with minimal impact on model utility.'
 venue: 'Association for Computational Linguistics (ACL)'
 paperurl: 'https://aclanthology.org/2023.acl-short.129/'
